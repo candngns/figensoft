@@ -1,2 +1,0 @@
-# figensoft
-web sitesi tasarımı
